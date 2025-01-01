@@ -1,0 +1,44 @@
+{
+  "departments": [
+    {
+      "departmentName": "department1",
+      "id": "d1",
+      "professors": [
+        {
+          "id": "p2",
+          "name": "Miss Sheetal",
+          "departmentId": "d1"
+        },
+        {
+          "id": "p1",
+          "name": "Mr. Roy",
+          "departmentId": "d1"
+        }
+      ],
+      "students": [
+        {
+          "id": "s1",
+          "name": "Alice Brown",
+          "departmentId": "d1"
+        },
+        {
+          "id": "s2",
+          "name": "Harsh",
+          "departmentId": "d1"
+        }
+      ]
+    },
+    {
+      "departmentName": "department3",
+      "id": "d3",
+      "professors": [
+        {
+          "id": "p3",
+          "name": "Ms. Trisha",
+          "departmentId": "d3"
+        }
+      ],
+      "students": []
+    }
+  ]
+}
